@@ -6,4 +6,5 @@
  Day 5 - 2 medium leetcode problems on Graph
  Day 6 - 1 mysql problem on leetcode.
  Day 7 - 1 medium leetcode problem. Brushed through oops concepts.
+ Day 8 - 2 medium leetcode problems on disjoint set
  
