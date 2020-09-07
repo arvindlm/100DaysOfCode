@@ -1,2 +1,3 @@
 # 100DaysOfCode
- Day 1 - Visitor pattern.
+ Day 0 - Visitor pattern.
+ Day 1 - System design basics.
